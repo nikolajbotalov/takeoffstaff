@@ -1,0 +1,73 @@
+{
+  "login": {
+    "email": "nikolaj.botalov@gmail.com",
+    "password": "dp@Pt7*45T"
+  },
+  "users": [
+    {
+      "name": "Jean Park",
+      "username": "Bert",
+      "id": 1,
+      "avatar": "https://android-obzor.com/wp-content/uploads/2022/02/5-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "avatar": "https://android-obzor.com/wp-content/uploads/2022/02/5-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "avatar": "https://sun9-1.userapi.com/impg/C5Jj2Zqu-xzOmhvbc_-rVZqQGQMpqNsWbt3apg/ADWwTJxfpyQ.jpg?size=564x550&quality=96&sign=361ed471335b8509654658509df29c0d&type=album"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9knn6xg6FC1bl3qY7kXfunQkJ4hfspy27Qg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "avatar": "https://trashbox.ru/ifiles/220798_004e6a_img_20140503_122504.jpg_min1/avatarki.-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyT8tA9swj_AdzROoQIfURlAyPIOc3_n5EBQ&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "avatar": "https://www.blast.hk/attachments/68499/"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "avatar": "https://storage.streamdps.com/iblock/b0a/b0a86c4b079d7401c6185b3df0f4b7dc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "avatar": "https://anime-fans.ru/wp-content/uploads/2022/01/Grustnye-avatarki-dlya-anime-patsanov_19.jpg"
+    },
+    {
+      "name": "Nikolay Botalov",
+      "username": "reactguy",
+      "id": 11
+    }
+  ]
+}
